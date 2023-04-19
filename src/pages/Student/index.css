@@ -1,0 +1,15 @@
+.student__list {
+    border-bottom: 1px solid #E5E5E5;
+    padding: 12px 0;
+}
+
+.student__list--title {
+    margin-bottom: 0;
+}
+
+.btn-add {
+    background: #FEAF00;
+    border-radius: 4px;
+    line-height: 17px;
+    color: #fff;
+}

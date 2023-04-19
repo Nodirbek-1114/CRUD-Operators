@@ -1,0 +1,52 @@
+body {
+    background-color: #FEB308;
+}
+
+.form {
+    max-width: 475px;
+    background: #FFFFFF;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding: 44px 30px 41px 30px;
+    margin: 0 auto;
+}
+
+.form-title {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+    border-left: 6px solid #F8D442;
+    padding-left: 12.5px;
+}
+
+.form-signIn {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 40px 0 9px 0;
+}
+
+.form-enter-account {
+    line-height: 17px;
+    color: #6C6C6C;
+    margin-bottom: 50px;
+}
+
+label {
+    line-height: 17px;
+    color: #6C6C6C;
+    margin-bottom: 10px;
+}
+
+.btn-signIn {
+    background: #FEAF00;
+    line-height: 17px;
+    color: #fff;
+}
+
+.reset {
+    color: #FEAF00;
+}

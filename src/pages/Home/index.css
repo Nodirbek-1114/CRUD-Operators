@@ -1,0 +1,50 @@
+
+.wrapper {
+    width: 100%;
+}
+
+.students {
+    width: 24%;
+    background: #F0F9FF;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.bookmark {
+    width: 24%;
+    background: #FEF6FB;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.usd {
+    width: 24%;
+    background: #FEFBEC;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.user {
+    width: 24%;
+    background: linear-gradient(110.42deg, #FEAF00 18.27%, #F8D442 91.84%);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.students-title {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #6C6C6C;
+}
+
+.students-count {
+    text-align: right;
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    text-transform: uppercase;
+    color: #000000;
+}

@@ -1,0 +1,62 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background: #F2EAE1;
+    max-width: 270px;
+    width: 100%;
+    height: 100vh;
+    padding: 18px 25.5px 31px 25px;
+}
+
+.top__title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    border-left: 4px solid #F8D442;
+    padding-left: 12px;
+}
+
+.admin__img {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    margin-left: 46px;
+    margin-top: 30px;
+}
+
+.admin__text {
+    line-height: 17px;
+    color: #FEAF00;
+}
+
+.admin__name {
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.sidebar__ul {
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.sidebar__ul--list {
+    width: 100%;
+    list-style-type: none;
+}
+
+.sidebar__ul--list img {
+    margin-right: 12px;
+}
+
+
+.logout {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #fff;
+}
